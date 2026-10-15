@@ -1,0 +1,6 @@
+{
+  "name": "Royal Zaika - Fine Indian & Mughlai Dining",
+  "description": "Experience authentic royal Indian and Mughlai cuisine at Royal Zaika. Interactive digital menu, online table reservation, photo gallery, customer reviews, and instant WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
